@@ -1,4 +1,4 @@
-#Leaf Guard AI Python
+# Leaf Guard AI Python
 Predictive Modeling of Plant Stress Using Multisensor Data. Developed an IoT-based plant stress detection system integrating environmental and soil sensors including Temperature, Relative Humidity (RH), Vapor Pressure
 
 Deficit (VPD), Volumetric Water Content (VWC), Plant Weight, Light Intensity, and Soil Nutrient sensors.
